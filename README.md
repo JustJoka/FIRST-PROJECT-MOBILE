@@ -33,3 +33,6 @@ Criação de componentes funcionais<br>
 Renderização dinâmica<br>
 <br>
 Uso do StyleSheet para estilizar a interface<br>
+<br>
+<br>
+![Preview](https://github.com/JustJoka/FIRST-PROJECT-MOBILE/blob/main/primeiro-projeto-mobile/Images/Screenshot%202025-12-04%20120507.png?raw=true)
